@@ -1,0 +1,7 @@
+# segredos, dependências e caches (organização 04/10/2026)
+.env*
+!.env.example
+node_modules/
+.venv/
+__pycache__/
+*.pyc
